@@ -7,7 +7,6 @@ Full-Stack Developer
 Remote-ready Full-Stack Developer with 6 years of experience, fluent in English, seeking international projects
 
 *   🌍  I'm based in Recife
-*   ✉️  You can contact me at [gianpietro.dimatteo@gmail.com](mailto:gianpietro.dimatteo@gmail.com)
 *   🧠  I'm learning AWS
 *   🤝  I'm open to collaborating on Web oriented projects
 *   ⚡  I like hiking
