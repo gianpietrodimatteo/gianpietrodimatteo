@@ -4,7 +4,7 @@ Hi 👋 My name is Gianpietro Di Matteo
 Full-Stack Developer
 --------------------
 
-Remote-ready Full-Stack Developer with 6 years of experience, fluent in English
+Remote-ready Full-Stack Developer, fluent in English
 
 *   🌍  I'm based in Recife
 *   🧠  I'm learning AWS
